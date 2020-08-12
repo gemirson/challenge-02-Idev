@@ -1,0 +1,12 @@
+{
+  "name": "Challenge-02",
+  "version": "1.0.0",
+  "description": "Challenge 02",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": "https://github.com/gemirson/challenge-02-Idev.git",
+  "author": "Gemirson <gemirson.silva@gmail.com>",
+  "license": "MIT"
+}
