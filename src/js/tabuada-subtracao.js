@@ -50,7 +50,7 @@ module.exports = function subtract(base, currentIndex) {
   Debug(base, currentIndex, base - currentIndex);
   currentIndex++;
 
-  return sumSub;
+  return this.sum;
 }
 
 
